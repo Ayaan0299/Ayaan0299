@@ -7,7 +7,7 @@
 ### 👤 About Me
 I am 18 years old, pursuing a BSc in Computer Science and Cybersecurity.  
 Currently working as an IT Service Analyst and compete as a boxer.  
-Passionate about pursusing a career in cyber security.
+Passionate about pursusing a career as a soc analyst 
 
 ---
 
