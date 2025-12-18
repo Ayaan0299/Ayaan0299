@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Ayaan0299/Ayaan0299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About Me
+I am 18 years old, pursuing a BSc in Computer Science and Cybersecurity.  
+Currently working as an IT Service Analyst and compete as a boxer.  
+Passionate about pursusing a career in cyber security.
+
+---
+
+### 💻 What I’m Working On
+- Building and experimenting with cybersecurity projects  
+- Practicing Python programming and scripting  
+- Learning Linux administration, network security, and ethical hacking techniques  
+- Exploring new tools, security labs, and practical challenges  
+
+---
+
+### 🛠 Skills
+- Programming & Scripting: Python, Bash/CLI  
+- Networking & Security: Nmap, Wireshark, Metasploit, UFW, Firewall setup  
+- Operating Systems: Linux, Ubuntu  
+- Tools & Platforms: Git, GitHub, GitHub Pages, curl, wget, VirtualBox  
+- Soft Skills: Teamwork, Communication, Mentorship, Problem-Solving  
+
+---
+
+### 📫 Contact Me
+- LinkedIn: [Ayaan Latif](https://www.linkedin.com/in/ayaan-latif-588540350)  
+- GitHub: [github.com/ayaan0299](https://github.com/ayaan0299)  
+
