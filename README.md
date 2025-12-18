@@ -29,8 +29,7 @@ Passionate about pursusing a career in cyber security.
 ---
 
 ### 📫 Contact Me
-- LinkedIn: [Ayaan Latif](https://www.linkedin.com/in/ayaan-latif-588540350)
-  <a href="https://www.linkedin.com/in/ayaan-latif-588540350">
+- LinkedIn: [Ayaan Latif](https://www.linkedin.com/in/ayaan-latif-588540350)   <a href="https://www.linkedin.com/in/ayaan-latif-588540350">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>- GitHub: [github.com/ayaan0299](https://github.com/ayaan0299)  
 
