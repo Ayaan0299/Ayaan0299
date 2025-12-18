@@ -28,7 +28,8 @@ Passionate about pursusing a career as a soc analyst.
 
 ---
 
-### 📫 Contact Me
-- LinkedIn: [Ayaan Latif](https://www.linkedin.com/in/ayaan-latif-588540350)   
-- GitHub: (https://github.com/ayaan0299)  
+## 📫 Contact Me
+- LinkedIn: [Ayaan Latif](https://www.linkedin.com/in/ayaan-latif-588540350)  
+- GitHub: [ayaan0299](https://github.com/ayaan0299)
+
 
