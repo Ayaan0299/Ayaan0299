@@ -15,14 +15,14 @@ I maintain a personal portfolio website where I showcase my cybersecurity projec
 
 🔗 **Portfolio:** https://ayaan0299.github.io/
 
-The site highlights practical SOC/SIEM labs, ethical hacking home labs, and ongoing cybersecurity and Python-based projects.
+The site highlights practical defensive labs some related SOC/ ethical hacking home labs, and ongoing cybersecurity and Python-based projects.
 
 ---
 
 ### 💻 What I’m Working On
 - Building hands-on cybersecurity labs and projects  
 - Practising Python programming and security scripting  
-- Developing skills in SOC analysis and SIEM monitoring  
+- Developing skills in Cybersecurity analysis and SIEM monitoring  
 - Learning Linux administration, network security, and ethical hacking techniques  
 - Exploring new tools, labs, and real-world security scenarios  
 
