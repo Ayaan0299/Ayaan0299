@@ -25,7 +25,7 @@
 
 ## 📜 Certifications:
 
-- <img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width="30"> CompTIA Security+
+- <img src="./assets/comptia-security-ce-certification.png" width="30"> CompTIA Security+
   - [Verify on Credly](https://www.credly.com/badges/7582c2b4-76e6-4901-ba9d-875108131149/linked_in_profile)
 
 ## ⚙️ Currently Working On:
