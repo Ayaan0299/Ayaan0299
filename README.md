@@ -13,7 +13,7 @@
 
 ## 🔍 Vulnerability Management Projects:
 
-*Coming soon — currently in progress*
+https://github.com/Ayaan0299/vulnerability-management-program-/blob/main/README.md
 
 ## 🕵️ Threat Hunting Projects:
 
