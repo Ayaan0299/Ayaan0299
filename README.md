@@ -12,9 +12,9 @@
   - [Cybersecurity Home Lab](https://github.com/Ayaan0299/cybersecurity-home-lab)
 
 ## 🔍 Vulnerability Management Projects:
-
-https://github.com/Ayaan0299/vulnerability-management-program-/blob/main/README.md
-
+- Vulnerability Management Program — End-to-end vulnerability management lifecycle using Tenable
+  - [Vulnerability Management Program](https://github.com/Ayaan0299/vulnerability-management-program-)
+    
 ## 🕵️ Threat Hunting Projects:
 
 *Coming soon — currently in progress*
@@ -25,7 +25,7 @@ https://github.com/Ayaan0299/vulnerability-management-program-/blob/main/README.
 
 ## 📜 Certifications:
 
-- <img src="./assets/comptia-security-ce-certification.png" width="30"> CompTIA Security+
+- <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="30"> CompTIA Security+
   - [Verify on Credly](https://www.credly.com/badges/7582c2b4-76e6-4901-ba9d-875108131149/linked_in_profile)
 
 ## ⚙️ Currently Working On:
