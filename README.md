@@ -6,15 +6,21 @@
 
 - Email Header Analyzer — Parses raw headers, performs SPF/DKIM/DMARC validation, phishing risk scoring 0–100
   - [Email Header Analyzer](https://github.com/Ayaan0299/email-header-analyzer)
-- Microsoft Azure/Sentinel SOC Home Lab — SIEM lab using Azure and Sentinel
+- Microsoft Azure/Sentinel SOC Home Lab — SIEM lab using Azure and Sentinel, engineered with data collection rule
   - [SOC Analyst SIEM Home Lab](https://github.com/Ayaan0299/SOC-Analyst-SIEM-Home-Lab-)
-- Vulnerability Assessment & Network Defence Lab — Kali Linux/Ubuntu blue/red team lab
+- Vulnerability Assessment & Network Defence Lab — Kali Linux/Ubuntu blue/red team lab, port scans, setting up firewalls.
   - [Cybersecurity Home Lab](https://github.com/Ayaan0299/cybersecurity-home-lab)
 
 ## 🔍 Vulnerability Management Projects:
 - Vulnerability Management Program — End-to-end vulnerability management lifecycle using Tenable
   - [Vulnerability Management Program](https://github.com/Ayaan0299/vulnerability-management-program-)
-    
+
+## 🌍 SecOps Projects:
+
+Azure Sentinel: Global Threat Monitoring & Detection Engineering  — Built Microsoft Sentinel dashboards using KQL and Azure Log Analytics to monitor authentication activity, cloud resources, and threats in a simulated enterprise environment supporting 1,000+ users.
+  - [Microsoft Sentinel Global Security Monitoring & Visualization](https://github.com/Ayaan0299/Microsoft-Sentinel-Global-Security-Monitoring-Visualization)
+
+  
 ## 🕵️ Threat Hunting Projects:
 
 *Coming soon — currently in progress*
