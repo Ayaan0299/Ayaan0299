@@ -20,6 +20,9 @@
 Azure Sentinel: Global Threat Monitoring & Detection Engineering  — Built Microsoft Sentinel dashboards using KQL and Azure Log Analytics to monitor authentication activity, cloud resources, and threats in a simulated enterprise environment supporting 1,000+ users.
   - [Microsoft Sentinel Global Security Monitoring & Visualization](https://github.com/Ayaan0299/Microsoft-Sentinel-Global-Security-Monitoring-Visualization)
 
+Microsoft Defender for Endpoint: Remote Code Execution Detection & Automated Response — Engineered a custom KQL detection rule to identify PowerShell download-and-execute behaviour, with automated endpoint isolation and forensic package collection on trigger.
+  - [Automated Incident Response: Remote Code Execution Detection](https://github.com/Ayaan0299/Automated-Incident-Response-Remote-Code-Execution-Detection)
+
   
 ## 🕵️ Threat Hunting Projects:
 
