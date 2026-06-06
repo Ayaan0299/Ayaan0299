@@ -6,8 +6,7 @@
 
 - Email Header Analyzer — Parses raw headers, performs SPF/DKIM/DMARC validation, phishing risk scoring 0–100
   - [Email Header Analyzer](https://github.com/Ayaan0299/email-header-analyzer)
-- Microsoft Azure/Sentinel SOC Home Lab — SIEM lab using Azure and Sentinel, engineered with data collection rule
-  - [SOC Analyst SIEM Home Lab](https://github.com/Ayaan0299/SOC-Analyst-SIEM-Home-Lab-)
+    
 - Vulnerability Assessment & Network Defence Lab — Kali Linux/Ubuntu blue/red team lab, port scans, setting up firewalls.
   - [Cybersecurity Home Lab](https://github.com/Ayaan0299/cybersecurity-home-lab)
 
@@ -20,6 +19,9 @@
 Azure Sentinel: Global Threat Monitoring & Detection Engineering  — Built Microsoft Sentinel dashboards using KQL and Azure Log Analytics to monitor authentication activity, cloud resources, and threats in a simulated enterprise environment supporting 1,000+ users.
   - [Microsoft Sentinel Global Security Monitoring & Visualization](https://github.com/Ayaan0299/Microsoft-Sentinel-Global-Security-Monitoring-Visualization)
 
+Microsoft Sentinel: NIST 800-61 Incident Response — Detected RDP brute force attempts via a custom KQL alert rule, worked the incident end to end through the full NIST 800-61 lifecycle and remediated via NSG hardening and endpoint isolation.
+  - [NIST-800-61-Brute-Force-Incident-Response-Lifecycle](https://github.com/Ayaan0299/-SecOps-Incident-Response-Full-Lifecycle-Remediation-)
+  -  
 Microsoft Defender for Endpoint: Remote Code Execution Detection & Automated Response — Engineered a custom KQL detection rule to identify PowerShell download-and-execute behaviour, with automated endpoint isolation and forensic package collection on trigger.
   - [Automated Incident Response: Remote Code Execution Detection](https://github.com/Ayaan0299/Automated-Incident-Response-Remote-Code-Execution-Detection)
 
