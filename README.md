@@ -24,7 +24,8 @@
   
 ## 🕵️ Threat Hunting Projects:
 
-*Coming soon — currently in progress*
+- Threat Hunt Report: Unauthorised TOR Usage — Simulated threat hunting scenario detecting TOR browser installation, silent execution, and confirmed network connections using Microsoft Defender for Endpoint and KQL
+  - [Threat Hunt: Unauthorised TOR Usage](https://github.com/Ayaan0299/Threat-hunting-Scenario-TOR-)
 
 ## 💼 Experience:
 
