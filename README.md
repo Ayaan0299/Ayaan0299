@@ -6,10 +6,10 @@
 
   - [Email Header Analyzer](https://github.com/Ayaan0299/email-header-analyzer)
 
-  - [Cybersecurity Red team/Blue team Lab](https://github.com/Ayaan0299/cybersecurity-home-lab)
+  - [	Offensive & Defensive Security Lab — Recon, Exploitation & Firewall Hardening](https://github.com/Ayaan0299/cybersecurity-home-lab)
 
 ## 🔍 Vulnerability Management Projects:
-  - [Vulnerability Management Program](https://github.com/Ayaan0299/vulnerability-management-program-)
+  - [End-to-End Vulnerability Management Programme (Full Lifecycle)](https://github.com/Ayaan0299/vulnerability-management-program-)
 
 ## 🌍 SecOps Projects:
 
