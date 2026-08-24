@@ -30,18 +30,16 @@
 ## 💼 Experience:
 
 - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **IT Support Analyst** — University of Greenwich *(Current)*
+- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **Cyber Security Analyst Intern** — Cyber Range Internship Programme
+- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> **IoT Cyber Defense Extern** — Hydroficient IoT Cyber Defense Externship [🔗 Writeup](#)
 
 ## 📜 Certifications:
-
 - <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="30"> CompTIA Security+
   - [Verify on Credly](https://www.credly.com/badges/7582c2b4-76e6-4901-ba9d-875108131149/linked_in_profile)
+- <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="30"> CompTIA CySA+
 
 ## ⚙️ Currently Working On:
-
-- Studying for **CompTIA CySA+**
-- **Cyber Range Internship Programme**
+- Studying for **Microsoft SC-200** (Security Operations Analyst)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&vCenter=true&width=480&lines=WILLING+TO+CONNECT!)](https://git.io/typing-svg)
-
 [![LinkedIn](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWV1YnN5ZzA2MnF6Y2t0ZTI2dW1pNGJjbXdtdGV5aTB3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dAtTj2AXGA1bFPbYyp/giphy.gif)](https://www.linkedin.com/in/ayaan-latif)
-
