@@ -14,10 +14,10 @@
 ## 🌍 SecOps Projects:
 
 
-  - [Microsoft Sentinel Global Security Monitoring & Visualization](https://github.com/Ayaan0299/Microsoft-Sentinel-Global-Security-Monitoring-Visualization)
+  - [Microsoft Sentinel: Global Threat Monitoring & Detection Engineering — 5 Attack Surfaces, 1,000+ Users](https://github.com/Ayaan0299/Microsoft-Sentinel-Global-Security-Monitoring-Visualization)
     
 
-  - [NIST-800-61-Brute-Force-Incident-Response-Lifecycle](https://github.com/Ayaan0299/-SecOps-Incident-Response-Full-Lifecycle-Remediation-)
+  - [NIST 800 61 RDP Brute Force: End to End Incident Response Lifecycle](https://github.com/Ayaan0299/-SecOps-Incident-Response-Full-Lifecycle-Remediation-)
 
   - [Automated Incident Response: Remote Code Execution Detection](https://github.com/Ayaan0299/Automated-Incident-Response-Remote-Code-Execution-Detection)
 
