@@ -37,7 +37,8 @@
 - <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="30"> CompTIA Security+
   - [Verify on Credly](https://www.credly.com/badges/7582c2b4-76e6-4901-ba9d-875108131149/linked_in_profile)
 - <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="30"> CompTIA CySA+
-
+  - [Verify on Credly](https://www.credly.com/badges/11bfd606-d04c-4d60-a699-be4ff7c97359)
+  - 
 ## ⚙️ Currently Working On:
 - Studying for **Microsoft SC-200** (Security Operations Analyst)
 
